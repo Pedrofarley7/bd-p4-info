@@ -1,2 +1,2 @@
-# bd-p4-info
-Repositório destinado a postagens de atividades e trabalhos na disciplina de Banco de Dados - P4.
+# Avaliação 07 
+Criar uma aplicação Node,js que usa Funcionalidades CRUD (insert, select, update, delete) usando REST API. A Aplicação que usa um Banco de Dados SQLite3 usará o Modelo Entidade Relacionamento anexo. Evidenciar o teste das chamadas das API usando o PostMan. 👌
